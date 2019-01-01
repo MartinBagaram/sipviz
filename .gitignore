@@ -1,3 +1,9 @@
 .ipynb_checkpoints/
+
 data_treatment.ipynb
+
 .vscode/
+venv
+*.pyc
+.DS_Store
+.env
